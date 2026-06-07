@@ -1,0 +1,18 @@
+Es importante que las plataformas
+ tecnológicas puedan recibir reportes 
+ o información de los ciudadanos de forma 
+ estructurada porque esto permite organizar 
+ mejor los datos y facilitar su gestión. 
+ Cuando la información se recibe en formatos 
+ estandarizados como JSON, resulta más sencillo 
+ procesarla y almacenarla. Además, ayuda a reducir
+ errores y evita confusiones en los reportes 
+ enviados por los usuarios. Las comunidades pueden 
+ informar problemas, necesidades o incidencias de 
+ manera más eficiente. Esto favorece una comunicación 
+ más directa entre ciudadanos y organizaciones. 
+ También permite tomar decisiones basadas en 
+ información clara y actualizada. Gracias a estas 
+ herramientas, la participación ciudadana se 
+ fortalece y se pueden ofrecer soluciones más 
+ rápidas y efectivas a los problemas de la comunidad.
