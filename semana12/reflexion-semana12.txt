@@ -1,0 +1,7 @@
+Durante este curso aprendí que la tecnología puede fortalecer la participación ciudadana cuando se utiliza de manera responsable. 
+Comprendí la importancia de organizar la información mediante bases de datos y proteger los datos personales de los usuarios. 
+También aprendí cómo funcionan los servidores, la autenticación y las automatizaciones para mejorar los procesos. Las metodologías 
+ágiles ayudan a organizar mejor el trabajo en equipo y permiten realizar mejoras continuas. Además, entendí que herramientas como Telegram 
+y n8n facilitan la comunicación sin exponer información sensible. La plataforma "Petición en 3 Clics" demuestra que la tecnología puede apoyar 
+causas comunitarias de forma sencilla. Finalmente, considero que el desarrollo de soluciones tecnológicas debe enfocarse en la seguridad, la 
+transparencia y el beneficio de la comunidad.
